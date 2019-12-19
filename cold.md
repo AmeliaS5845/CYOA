@@ -2,6 +2,6 @@ You are on your way to alaska when all of a sudden your plane makes a wrong turn
 
 ![northpole](https://images.cruisecritic.com/image/18699320/north-pole-cruises-your-guide-to-arctic-trips-to-the-north-pole_600x400_21.jpg)
 
-[Leave the crashedplane area and explore](explore.md)
+[Leave the crashed plane area and explore](explore.md)
 
 [Stay near the crashed plane area](hypo.md)
