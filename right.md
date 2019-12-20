@@ -4,4 +4,4 @@ uh-oh! You made the wrong turn and now you have crashed into a ditch!
 
 You have died with the car crushing you!
 
-End!
+[End](vacation.md)
