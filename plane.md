@@ -4,4 +4,4 @@ You are at the airport!
 
 [Fly Somewhere Cold](cold.md)
 
-[Fly Somewhere Warm](Warm.md)
+[Fly Somewhere Warm](warm.md)
